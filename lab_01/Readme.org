@@ -1,0 +1,12 @@
+
+* Notes
+- Put your solutions in a folder named *lab_01* 
+- Each file must be named exactly as specified in the assignment
+- Don't submit to Gradescope (we're not using it). Push to your repo
+- Put the header comment in each program as specified in the
+  assignment
+- Make sure your program's input and outputs are *exactly* as
+  specified in the assignment
+
+
+* To get to the assignment use this link: [[https://cdn.rawgit.com/hunterdaedalus/spring-2018-13600-labs/17986afa/lab_01/assignment.html][https://cdn.rawgit.com/hunterdaedalus/spring-2018-13600-labs/17986afa/lab_01/assignment.html]]

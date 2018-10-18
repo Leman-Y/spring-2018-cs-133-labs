@@ -1,0 +1,7 @@
+one:
+	@echo "This is an example"
+two: three
+	@echo "This is another exampl"
+	@echo Another line here
+thre: 
+	@echo "this is target three"
